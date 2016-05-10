@@ -26,6 +26,9 @@ In the event that there is an odd number of names, there will be an array contai
 
 ### Frontend
 To view in browser:
+
 1. Run `bundle install` to install dependencies
+
 1. Run `ruby app.rb` to serve the app
+
 1. Navigate to `localhost:4567` in your browser
