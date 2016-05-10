@@ -1,6 +1,5 @@
 require 'sinatra'
 require 'slim'
-require 'logger'
 require 'json'
 
 load 'parse_names.rb'
